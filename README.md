@@ -16,7 +16,7 @@ A ChatGPT-style conversational interface built with **Streamlit**, powered by **
 - **Adjustable Inference Parameters** - Fine-tune `temperature` and `max_tokens` via sidebar sliders
 - **Session-Only Credentials** - AWS keys are held in memory for the session only; never written to disk or logged
 - **Multi-Turn Context** - Full conversation history is formatted into LLaMA 3's native chat template so the model retains context across turns
-- **Region Selection** — Choose between `us-east-1` and `us-west-2`
+- **Region Selection** - Choose between `us-east-1` and `us-west-2`
 - **Error Handling** — Friendly error messages for missing credentials, connection failures, and Bedrock API errors
 - **One-Click Reset** — Clear chat history at any time from the sidebar
 
