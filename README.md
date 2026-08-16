@@ -11,7 +11,7 @@ A ChatGPT-style conversational interface built with **Streamlit**, powered by **
 
 ## ✨ Features
 
-- **Conversational UI** — ChatGPT-style chat bubbles with a dark, modern theme
+- **Conversational UI** - ChatGPT-style chat bubbles with a dark, modern theme
 - **Model Selection** — Switch between LLaMA 3 8B Instruct and LLaMA 3 70B Instruct
 - **Adjustable Inference Parameters** — Fine-tune `temperature` and `max_tokens` via sidebar sliders
 - **Session-Only Credentials** — AWS keys are held in memory for the session only; never written to disk or logged
