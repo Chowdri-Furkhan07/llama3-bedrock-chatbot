@@ -1,6 +1,6 @@
 # 🤖 AWS Bedrock LLaMA 3 Chatbot
 
-A ChatGPT-style conversational interface built with **Streamlit**, powered by **Meta LLaMA 3** models served through **Amazon Bedrock's** `InvokeModel` API. Connect with your own AWS credentials, pick a model, and start chatting — all within a clean, dark-themed UI.
+A ChatGPT-style conversational interface built with **Streamlit**, powered by **Meta LLaMA 3** models served through **Amazon Bedrock's** `InvokeModel` API. Connect with your own AWS credentials, pick a model, and start chatting - all within a clean, dark-themed UI.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B.svg)
